@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+# Testing file
+test.py
